@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"lib-duke/apache-csv.jar",
+			"lib-duke/courserajava.jar"
+		]
+	}
+}
