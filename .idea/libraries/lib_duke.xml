@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib-duke">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib-duke/apache-csv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib-duke/courserajava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

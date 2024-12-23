@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-oop.iml" filepath="$PROJECT_DIR$/java-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oop-1/java-oop-1.iml" filepath="$PROJECT_DIR$/java-oop-1/java-oop-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oop-2/java-oop-2.iml" filepath="$PROJECT_DIR$/java-oop-2/java-oop-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oop-3/java-oop-3.iml" filepath="$PROJECT_DIR$/java-oop-3/java-oop-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oop-4/java-oop-4.iml" filepath="$PROJECT_DIR$/java-oop-4/java-oop-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oop-5/java-oop-5.iml" filepath="$PROJECT_DIR$/java-oop-5/java-oop-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oop-6/java-oop-6.iml" filepath="$PROJECT_DIR$/java-oop-6/java-oop-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oop-7/java-oop-7.iml" filepath="$PROJECT_DIR$/java-oop-7/java-oop-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oop-8/java-oop-8.iml" filepath="$PROJECT_DIR$/java-oop-8/java-oop-8.iml" />
+    </modules>
+  </component>
+</project>

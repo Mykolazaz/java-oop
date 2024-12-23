@@ -9,6 +9,7 @@
 			"lib/**/*.jar",
 			"lib-duke/apache-csv.jar",
 			"lib-duke/courserajava.jar"
-		]
+		],
+		"java.debug.settings.onBuildFailureProceed": true
 	}
 }
